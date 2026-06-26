@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello and Welcome!
 
-<!--
-**nifromon66/nifromon66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nicolas Fromont**, currently a computer science student at **42 Perpignan**, France.
 
-Here are some ideas to get you started:
+At the time of **High School**, I was mainly interested in **Hydrogeology** so I decided to study the following subjects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specialties :
+  - **Earth and Life Sciences**.
+  - **Engineering Sciences**.
+Options :
+  - **Mathematics**.
+
+After which I entered **University** following a major in **Geology** and **Biology** of **Marine Life**.
+
+But I soon found my studies "boring", I was not happy with what I learned and the way I learned it. I then started looking for a new way of learning things and I found **42**, despite my doubts I entered a **discovery piscine** to experience it myself and was charmed by it, I decided there and then that it will be my next step in life.
+
+**42** also awoke a buried interest I had for computer sciences, techs and software engineering. Especially the development of Games as I passed the infamous **piscine** at **42 Perpignan**, France to start my journey in the world of code.
+
+
