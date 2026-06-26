@@ -7,6 +7,7 @@ At the time of **High School**, I was mainly interested in **Hydrogeology** so I
 Specialties :
   - **Earth and Life Sciences**.
   - **Engineering Sciences**.
+
 Options :
   - **Mathematics**.
 
