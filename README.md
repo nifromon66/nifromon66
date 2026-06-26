@@ -21,6 +21,11 @@ But I soon found my studies "boring", I was not happy with what I learned and th
 
 I then passed the infamous **piscine** at **42 Perpignan** to start my journey in the world of code.
 
+I'm currently interested in :
+
+1. Game Development
+2. Low Level Development
+
 ## Skills
 ### Programming Languages
 
@@ -91,10 +96,15 @@ As a computer science student at 42 Perpignan, one of the elements I found the m
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
   [![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 
+## 42 Projects
+
+
+## Personal Projects
+
 ## Contact Me
   
-[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#) -> 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) ->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 
 
