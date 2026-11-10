@@ -111,6 +111,11 @@ As a computer science student at 42 Perpignan, one of the elements I found the m
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
+## Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nifromon66&hide_rank=true&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=nifromon66&hide_rank=true&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=nord)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nifromon66&langs_count=9&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=nifromon66&langs_count=9&theme=nord)
+
 
 
 
