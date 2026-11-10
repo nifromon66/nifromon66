@@ -104,7 +104,7 @@ As a computer science student at 42 Perpignan, one of the elements I found the m
 
 ## Contact Me
 
-<a href="www.linkedin.com/in/nifromon">
+<a href="https://www.linkedin.com/in/nifromon">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
 <a href="nifromon@student.42Perpignan.fr">
