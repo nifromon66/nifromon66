@@ -23,8 +23,9 @@ I then passed the infamous **piscine** at **42 Perpignan** to start my journey i
 
 I'm currently interested in :
 
-1. Game Development
-2. Low Level Development
+1. Graphics & Gaming
+2. System & Kernels
+3. Cybersecurity
 
 ## Skills
 ### Programming Languages
