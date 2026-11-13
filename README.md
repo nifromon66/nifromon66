@@ -62,11 +62,26 @@ currently_learning:
 
 ### Rank_03
 ---
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FPhilosophers&theme=nightowl)](https://github.com/nifromon66/Philosophers)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FMinishell&theme=nightowl)](https://github.com/nifromon66/Minishell)
 ---
 
+### Rank_04
+---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FNetPractice&theme=nightowl)](https://github.com/nifromon66/NetPractice)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FCub3D&theme=nightowl)](https://github.com/nifromon66/Cub3D)
+---
+
+### Rank_05
+---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FInception&theme=nightowl)](https://github.com/nifromon66/Inception)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FWebserv&theme=nightowl)](https://github.com/nifromon66/Webserv)
+---
+
+### Rank_06
+---
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FFt_transcendence&theme=nightowl)](https://github.com/nifromon66/Ft_transcendence)
+---
 
 ## 🛠️ Languages and Tools :
 
