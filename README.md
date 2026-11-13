@@ -62,7 +62,7 @@ currently_learning:
 
 ### Rank_03
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FPhilosophers&theme=nightowl)](https://github.com/nifromon66/Philosophers)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nifromon66&repo=nifromon66%2FMinishell&theme=nightowl)](https://github.com/nifromon66/Minishell)
 ---
 
