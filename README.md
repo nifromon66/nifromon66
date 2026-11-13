@@ -12,12 +12,42 @@
 </div>
 
 ## 👨🏻‍💻 About me :
+```yaml
+name: Nicolas Fromont
+located_in: Perpignan, France
+current_job: Computer Sciences Student
 
-## 🌱 I'm currently learning :
+education:
+  agora_high_school:
+    [
+      "Life and Earth Sciences",
+      "Engineer Sciences",
+      "Mathematics"
+    ]
+  forty_two: Computer Sciences
+
+fields_of_interests:
+  [
+    "Graphics and Games",
+    "System and Kernels",
+    "Cybersecurity"
+  ]
+
+currently_learning:
+  [
+    "",
+  ]
+```
 
 ## 🏗️ Projects :
 
 ## 🛠️ Languages and Tools :
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,md,c,cpp,py,css,html,js,lua,php,vue,tailwind,flask" />
+  <img src="https://skillicons.dev/icons?i=git,docker,arduino,cmake,nginx,wordpress,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,nix,github,gitlab,vim,vscode,discord,obsidian,sketchup" />
+</p>
 
 ## ⚡ Stats :
 
